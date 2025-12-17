@@ -1,4 +1,4 @@
-# EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
+[Blockchain_Summarization_AI_Platforms_Prompting_Examples.pdf](https://github.com/user-attachments/files/24210289/Blockchain_Summarization_AI_Platforms_Prompting_Examples.pdf)# EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 
 ## AIM
 To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
@@ -19,5 +19,7 @@ Speed
 User experience
 
 ## OUTPUT
+
+
 
 ## RESULT
