@@ -1,26 +1,27 @@
-[Blockchain_Summarization_AI_Platforms_Prompting_Examples.pdf](https://github.com/user-attachments/files/24210289/Blockchain_Summarization_AI_Platforms_Prompting_Examples.pdf)# EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
+AIM:
+  To perform Exploratory Data Analysis on the given data set.
+EXPLANATION:
+The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
 
-## AIM
-To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
+ALGORITHM:
+STEP 1: Import the required packages to perform Data Cleansing,Removing Outliers and Exploratory Data Analysis.
 
-## SCENARIO:
-You are part of a content curation team for an educational platform that delivers quick summaries of research papers to undergraduate students. Your task is to summarize a 500-word technical article on "The Basics of Blockchain Technology" using multiple AI platforms and prompting strategies.
+STEP 2: Replace the null value using any one of the method from mode,median and mean based on the dataset available.
 
-Your goal is to determine which combination of prompting technique + platform provides the best summary in terms of:
+STEP 3: Use boxplot method to analyze the outliers of the given dataset.
 
-Accuracy
+STEP 4: Remove the outliers using Inter Quantile Range method.
 
-Coherence
+STEP 5: Use Countplot method to analyze in a graphical method for categorical data.
 
-Simplicity
+STEP 6: Use displot method to represent the univariate distribution of data.
 
-Speed
+STEP 7: Use cross tabulation method to quantitatively analyze the relationship between multiple variables.
 
-User experience
+STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
-## OUTPUT
+CODING AND OUTPUT
+    <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
+RESULT
+    <<INCLUDE YOUR RESULT HERE>>
 
-[Document 5.docx](https://github.com/user-attachments/files/24347861/Document.5.docx)
-
-
-## RESULT
